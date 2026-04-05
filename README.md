@@ -1,0 +1,2 @@
+# Plugin_to_2
+AviUtlのプラグインをAviUtl2に移植する際の知見をまとめるだけ
